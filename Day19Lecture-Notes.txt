@@ -1,0 +1,9 @@
+-------------------------------------------------Lecture Example-------------------------------------------------
+
+We went through an example.
+
+json parser used: https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
+
+
+-----------------------------------------------------Todo-----------------------------------------------------
+- Double check with past examples.
