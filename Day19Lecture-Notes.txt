@@ -4,6 +4,21 @@ We went through an example.
 
 json parser used: https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
 
+1. First we read from the given file.
+2. Now we need to parse the data we read. (make sure you import the correct one.)
+
+
+Then we started on redis
+- Refer to day 15 for redis slides.
+- I followed day 15's application.properties file.
+- I followed day 15's AppConfig file.
+- Imported the redis (jedis) library from Maven repo ********************
+
+
 
 -----------------------------------------------------Todo-----------------------------------------------------
 - Double check with past examples.
+- refer to day16 workshop example for before lunch stuff -> (we used the glassfish one instead of the google one)
+- Probably better to use glass fish
+
+- Must be comfortable with processing different kinds of files using json p.
